@@ -1,6 +1,4 @@
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/92004749/150873952-f2bccec6-ff3e-4690-b7b1-6f7fb2a6dc15.gif)
-
+![Introduction](https://user-images.githubusercontent.com/92004749/150874625-5a64223f-49fb-4ca3-812b-21f94a45d77c.gif)
 
 [![](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/bhavneetsingh84/)
 
